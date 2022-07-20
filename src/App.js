@@ -13,7 +13,7 @@ function App() {
     if (!pause) {
       if (!intervalRef.current) {
         intervalRef.current = setInterval(() => {
-          setCounter((counter) => (counter === 7 ? 1 : counter + 1))
+          setCounter((counter) => (counter % 7) + 1)
         }, 1000)
       }
     } else {
