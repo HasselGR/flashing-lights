@@ -1,0 +1,106 @@
+.lights-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  
+}
+
+.light-1{
+background-color: lightblue;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(85%);
+}
+.light-1-lit{
+background-color: lightblue;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(125%);
+}
+
+.light-2{
+background-color: green;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(85%);
+}
+.light-2-lit{
+background-color: green;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(125%);
+}
+.light-3{
+background-color: red;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(85%);
+}
+.light-3-lit{
+background-color: red;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(125%);
+}
+.light-4{
+background-color: orangered;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(85%);
+}
+.light-4-lit{
+background-color: orangered;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(125%);
+}
+.light-5{
+background-color: orange;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(85%);
+}
+.light-5-lit{
+background-color: orange;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(125%);
+}
+.light-6{
+background-color: yellow;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(85%);
+}
+.light-6-lit{
+background-color: yellow;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(125%);
+}
+.light-7{
+background-color: crimson;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(85%);
+}
+.light-7-lit{
+background-color: crimson;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+filter:brightness(125%);
+}
